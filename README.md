@@ -1,2 +1,2 @@
-# compendium-ui
-React UI Components used for the compendium
+# Compendium UI
+React UI Components used for the compendium.
